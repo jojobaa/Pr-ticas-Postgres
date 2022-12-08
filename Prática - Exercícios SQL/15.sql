@@ -1,2 +1,2 @@
-SELECT * FROM produtos ORDER BY preco LIMIT 2 OFFSET 1;
+SELECT * FROM produtos ORDER BY preco LIMIT 1 OFFSET 1;
 //duvida
